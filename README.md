@@ -3,6 +3,7 @@
 **5 MB code editor. Zero dependencies. Built from scratch on raw OS APIs.**
 
 Cursor weighs 400 MB. VS Code weighs 300 MB. Zed weighs 400 MB. VCoding weighs 5.
+support chinese and english 
 
 <img width="1920" height="1035" alt="customer-1" src="https://github.com/user-attachments/assets/3e1f96f6-d9ae-4379-85c8-84caeac83155" />
 
@@ -66,4 +67,4 @@ That's it.
 
 ---
 
-**Alpha — file issues, we read all of them.**
+**Alpha coming soon — file issues, we read all of them.**
