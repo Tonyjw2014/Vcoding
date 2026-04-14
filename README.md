@@ -1,6 +1,5 @@
 # VCoding
 
-*to download the newest beta, find the the biggest number inside () after vcoding :D
 
 **5 MB code editor. Zero third party dependencies. Built from scratch on raw OS APIs.**
 
@@ -46,6 +45,7 @@ support chinese and english
 > **Windows only. No installer. Just download and run.**
 
 just download here ;D
+*to download the newest beta, find the the biggest number inside () after vcoding
 
 ## System Requirements
 
