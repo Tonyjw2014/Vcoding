@@ -51,7 +51,7 @@ just download here ;D
 
 - Windows 10/11
 - No GPU required
-- No internet required
+- No internet required (theres a heartbeat send to our server for licensing, will be removed in the future actual release) 
 - No runtime required
 
 That's it.
