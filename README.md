@@ -2,7 +2,7 @@
 
 *to download the newest beta, find the the biggest number inside () after vcoding :D
 
-**5 MB code editor. Zero dependencies. Built from scratch on raw OS APIs.**
+**5 MB code editor. Zero third party dependencies. Built from scratch on raw OS APIs.**
 
 Cursor weighs 400 MB. VS Code weighs 300 MB. Zed weighs 400 MB. VCoding weighs 5.
 support chinese and english 
