@@ -1,7 +1,7 @@
 # VCoding
 
 
-**5 MB code editor. Zero third party dependencies. Built from scratch **
+**5 MB code editor. Zero third party dependencies. Built from scratch**
 
 Cursor weighs 400 MB. VS Code weighs 300 MB. Zed weighs 400 MB. VCoding weighs 5.
 support chinese and english 
