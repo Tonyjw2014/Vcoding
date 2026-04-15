@@ -29,7 +29,6 @@ support chinese and english
 - SSH & remote file access
 - 15+ custom native GUI widgets — built on Win32/GDI, no Qt, no MFC
 - Custom memory allocator — no malloc, fully tracked allocations
-- Custom C++ runtime — no MSVCRT dependency
 - Event dispatch system
 - Multi-tab editing
 - Project file management
