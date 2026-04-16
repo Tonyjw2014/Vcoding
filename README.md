@@ -20,7 +20,7 @@ support chinese and english
 | GPU required | **No** | Yes (DirectX 11) | No | No |
 | Dependencies | **0** | Rust ecosystem | Electron + Node.js | Electron + Node.js |
 | Runs on Remote Desktop | **Yes** | No | Yes | Yes |
-| Custom C runtime | **Yes** | No | No | No |
+
 
 ## Features
 
